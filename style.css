@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px 10px 40px 80px;
+    display: inline;
+}
+p{
+    background-color: lavender;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-left: 50px;
+}
